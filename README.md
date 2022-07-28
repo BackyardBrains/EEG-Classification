@@ -1,1 +1,1 @@
-This repo will contain labeled SpikerBox EEG data for training classifiers.
+This repo contains labeled SpikerBox EEG data for training classifiers.
